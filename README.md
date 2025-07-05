@@ -14,4 +14,4 @@
 
 ## 모델 아키텍처  
 - Phi-2 모델 32개 layers중 후반부 4개 layers에 OpenAI ViT-Base-Patch32 모델을 활용한 Cross-Attention hook을 삽입
-- LoRA를 각 layers에 적용하여, 학습간 최적화와 Phi2의 성능을 유지시킴
+- 각 layer의 self-attention에 LoRA를 삽입하여 학습간 최적화와 Phi2의 성능을 유지시킴
