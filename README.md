@@ -1,6 +1,6 @@
 # 프로젝트 개요
 
-본 repository는 Microsoft의 Phi-2 모델과 OpenAI의 ViT-Base-Patch32 모델을 결합하여 멀티모달을 구현하기 위해 개발되었습니다.
+본 Repository는 Microsoft의 Phi-2 모델과 OpenAI의 ViT-Base-Patch32 모델을 결합하여 멀티모달을 구현하기 위해 개발되었습니다.
 
 ## 사용된 데이터셋  
 - MS COCO Captions 2017  
